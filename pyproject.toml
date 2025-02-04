@@ -9,7 +9,7 @@ description = "A Python wrapper for PQClean Falcon using CFFI"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "Albert Nieto", email = "nietom.albert@gmail.com" }
 ]
 requires-python = ">=3.7"
 classifiers = [
@@ -20,3 +20,5 @@ classifiers = [
 dependencies = [
   "cffi>=1.15.0"
 ]
+[project.urls]
+Homepage = "https://github.com/albertnieto/"
